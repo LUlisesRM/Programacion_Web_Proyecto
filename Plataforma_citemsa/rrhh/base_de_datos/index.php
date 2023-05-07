@@ -65,7 +65,7 @@ $count = mysqli_num_rows($consulta);
 
 
       <div align=center>
-        <table class="centered" style="overflow-y: scroll;height:500px;">
+        <table class="centered" style="overflow-y: scroll;height:300px;">
           <tr>
             <th>CREDENCIAL</th>
             <th>NOMBRE</th>

@@ -52,7 +52,7 @@
 
                 <h1>BASE DE DATOS OPERADORES</h1>
 
-                <table class="centered" style="overflow-y: scroll;height:500px;">
+                <table class="centered" style="overflow-y: scroll;height:300px;">
                     <tr>
                         <th>CREDENCIAL</th>
                         <th>NOMBRE</th>
